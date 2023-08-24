@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.cart {
+    padding: 20px;
+}
+.nav {
+    background-color: orange;
+}
+
+.minus, .add {
+    background-color: transparent;
+    border: none;
+}
+
+.like {
+    background-color: transparent;
+    border: none;
+}
+
+.delete {
+    background-color: rgba(117, 17, 17, 0.838);
+    border: 1px solid black;
+    color: white;
+    margin-left: 1rem;
+}
+
+.tit {
+    display: flex;
+}
+
+.total {
+    margin-left: 7rem;
+}
+
+.liked {
+    color: red;
+}
